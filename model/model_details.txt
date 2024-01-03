@@ -1,0 +1,5 @@
+Get Model from 
+"https://huggingface.co/TheBloke/Llama-2-7B-GGML"
+
+"GGML"
+But the advanced version "GGUF"
